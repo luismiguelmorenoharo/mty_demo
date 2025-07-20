@@ -29,24 +29,11 @@ top3_low = low_perf_stores.sort_values("sales_per_employee").head(3)
 
 st.table(top3_low[["store_id", "brand", "sales_per_employee", "avg_customer_rating"]])
 
-# Métriques du modèle de ML
-from ml.feature_engineering import get_model_metrics
-
-df_preds = pd.read_csv("data/features/predictions.csv")
-y_true = df_preds["actual"]
-y_pred = df_preds["prediction"]
-
-metrics = get_model_metrics(y_true, y_pred)
-
-st.subheader(" Métriques du Modèle de Prédiction")
-col1, col2, col3 = st.columns(3)
-col1.metric("F1-score", f"{metrics['F1-score']:.2f}")
-col2.metric("Précision", f"{metrics['Precision']:.2f}")
-col3.metric("Rappel", f"{metrics['Recall']:.2f}")
-
-
-
 # Tableau
 st.markdown("### Données détaillées")
 st.dataframe(df)
+
+
+
+
 
