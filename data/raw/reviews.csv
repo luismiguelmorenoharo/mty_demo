@@ -1,0 +1,301 @@
+review_id,brand,store_id,rating,comment,channel,date
+RVW_00001,Mucho Burrito,MTY_0015,4,Not clean,Uber Eats,2024-01-08
+RVW_00002,Thai Express,MTY_0012,2,Amazing taste,Yelp,2024-01-04
+RVW_00003,Vanellis,MTY_0020,1,Great service!,Uber Eats,2024-01-23
+RVW_00004,Vanellis,MTY_0013,4,Great service!,Uber Eats,2024-01-22
+RVW_00005,Tiki-Ming,MTY_0017,4,Too slow,Yelp,2024-01-17
+RVW_00006,Mucho Burrito,MTY_0019,2,Not clean,Uber Eats,2024-01-31
+RVW_00007,Mucho Burrito,MTY_0003,1,Not clean,Yelp,2024-01-08
+RVW_00008,Vanellis,MTY_0019,1,Not clean,Uber Eats,2024-01-04
+RVW_00009,Mucho Burrito,MTY_0011,5,Great service!,Yelp,2024-01-16
+RVW_00010,Thai Express,MTY_0016,1,Amazing taste,Yelp,2024-01-28
+RVW_00011,Vanellis,MTY_0002,2,Loved it,Uber Eats,2024-01-11
+RVW_00012,Vanellis,MTY_0005,4,Too slow,Uber Eats,2024-01-06
+RVW_00013,Tiki-Ming,MTY_0010,4,Loved it,Yelp,2024-01-26
+RVW_00014,Tiki-Ming,MTY_0011,2,Too slow,Uber Eats,2024-01-23
+RVW_00015,Tutti Frutti,MTY_0005,2,Loved it,Yelp,2024-01-18
+RVW_00016,Tutti Frutti,MTY_0008,2,Terrible experience,Uber Eats,2024-01-11
+RVW_00017,Mucho Burrito,MTY_0020,5,Too slow,Google,2024-01-10
+RVW_00018,Tutti Frutti,MTY_0002,1,Loved it,Yelp,2024-01-21
+RVW_00019,Mucho Burrito,MTY_0014,1,Great service!,Google,2024-01-19
+RVW_00020,Tutti Frutti,MTY_0003,5,Not clean,Uber Eats,2024-01-14
+RVW_00021,Tutti Frutti,MTY_0014,1,Terrible experience,Yelp,2024-01-14
+RVW_00022,Tiki-Ming,MTY_0007,3,Amazing taste,Google,2024-01-16
+RVW_00023,Tiki-Ming,MTY_0014,2,Loved it,Yelp,2024-01-25
+RVW_00024,Tutti Frutti,MTY_0008,5,Too slow,Google,2024-01-28
+RVW_00025,Tutti Frutti,MTY_0017,3,Too slow,Uber Eats,2024-01-25
+RVW_00026,Vanellis,MTY_0012,2,Great service!,Yelp,2024-01-04
+RVW_00027,Tutti Frutti,MTY_0016,2,Great service!,Yelp,2024-01-13
+RVW_00028,Mucho Burrito,MTY_0006,2,Not clean,Yelp,2024-01-15
+RVW_00029,Thai Express,MTY_0020,2,Amazing taste,Google,2024-01-14
+RVW_00030,Thai Express,MTY_0011,4,Amazing taste,Uber Eats,2024-01-31
+RVW_00031,Vanellis,MTY_0008,1,Not clean,Yelp,2024-01-28
+RVW_00032,Mucho Burrito,MTY_0010,4,Too slow,Google,2024-01-07
+RVW_00033,Tutti Frutti,MTY_0009,2,Loved it,Google,2024-01-14
+RVW_00034,Tutti Frutti,MTY_0019,3,Amazing taste,Uber Eats,2024-01-03
+RVW_00035,Mucho Burrito,MTY_0017,4,Not clean,Yelp,2024-01-15
+RVW_00036,Thai Express,MTY_0002,5,Loved it,Uber Eats,2024-01-30
+RVW_00037,Vanellis,MTY_0006,5,Loved it,Uber Eats,2024-01-05
+RVW_00038,Thai Express,MTY_0019,4,Loved it,Uber Eats,2024-01-11
+RVW_00039,Tiki-Ming,MTY_0002,1,Great service!,Google,2024-01-24
+RVW_00040,Tutti Frutti,MTY_0001,1,Loved it,Google,2024-01-23
+RVW_00041,Mucho Burrito,MTY_0002,1,Too slow,Uber Eats,2024-01-05
+RVW_00042,Tiki-Ming,MTY_0005,2,Terrible experience,Uber Eats,2024-01-05
+RVW_00043,Tiki-Ming,MTY_0006,4,Terrible experience,Uber Eats,2024-01-17
+RVW_00044,Vanellis,MTY_0011,1,Too slow,Yelp,2024-01-11
+RVW_00045,Tutti Frutti,MTY_0012,4,Terrible experience,Yelp,2024-01-12
+RVW_00046,Mucho Burrito,MTY_0010,1,Amazing taste,Uber Eats,2024-01-18
+RVW_00047,Mucho Burrito,MTY_0002,3,Not clean,Google,2024-01-06
+RVW_00048,Tiki-Ming,MTY_0018,5,Loved it,Yelp,2024-01-14
+RVW_00049,Mucho Burrito,MTY_0016,2,Loved it,Yelp,2024-01-16
+RVW_00050,Vanellis,MTY_0015,1,Loved it,Uber Eats,2024-01-24
+RVW_00051,Thai Express,MTY_0013,4,Too slow,Yelp,2024-01-12
+RVW_00052,Tutti Frutti,MTY_0008,1,Amazing taste,Yelp,2024-01-25
+RVW_00053,Mucho Burrito,MTY_0010,1,Not clean,Google,2024-01-07
+RVW_00054,Thai Express,MTY_0012,3,Amazing taste,Yelp,2024-01-29
+RVW_00055,Vanellis,MTY_0001,5,Too slow,Google,2024-01-06
+RVW_00056,Thai Express,MTY_0002,4,Great service!,Google,2024-01-17
+RVW_00057,Tiki-Ming,MTY_0020,5,Great service!,Uber Eats,2024-01-04
+RVW_00058,Tutti Frutti,MTY_0004,2,Amazing taste,Yelp,2024-01-17
+RVW_00059,Tutti Frutti,MTY_0014,4,Terrible experience,Google,2024-01-21
+RVW_00060,Vanellis,MTY_0011,5,Too slow,Uber Eats,2024-01-20
+RVW_00061,Thai Express,MTY_0014,5,Too slow,Yelp,2024-01-05
+RVW_00062,Tiki-Ming,MTY_0001,1,Great service!,Yelp,2024-01-24
+RVW_00063,Thai Express,MTY_0003,3,Great service!,Yelp,2024-01-10
+RVW_00064,Tiki-Ming,MTY_0008,2,Great service!,Google,2024-01-13
+RVW_00065,Thai Express,MTY_0010,1,Loved it,Google,2024-01-27
+RVW_00066,Vanellis,MTY_0015,5,Too slow,Google,2024-01-15
+RVW_00067,Vanellis,MTY_0001,2,Not clean,Google,2024-01-26
+RVW_00068,Thai Express,MTY_0020,1,Not clean,Uber Eats,2024-01-31
+RVW_00069,Tutti Frutti,MTY_0007,1,Too slow,Google,2024-01-08
+RVW_00070,Thai Express,MTY_0018,3,Loved it,Yelp,2024-01-09
+RVW_00071,Tutti Frutti,MTY_0013,5,Great service!,Yelp,2024-01-02
+RVW_00072,Tutti Frutti,MTY_0005,3,Great service!,Google,2024-01-19
+RVW_00073,Tiki-Ming,MTY_0013,1,Too slow,Yelp,2024-01-18
+RVW_00074,Tiki-Ming,MTY_0004,3,Great service!,Google,2024-01-04
+RVW_00075,Thai Express,MTY_0002,3,Great service!,Uber Eats,2024-01-26
+RVW_00076,Vanellis,MTY_0006,3,Too slow,Google,2024-01-30
+RVW_00077,Tutti Frutti,MTY_0005,2,Not clean,Yelp,2024-01-03
+RVW_00078,Mucho Burrito,MTY_0010,2,Terrible experience,Yelp,2024-01-07
+RVW_00079,Tutti Frutti,MTY_0017,1,Loved it,Uber Eats,2024-01-14
+RVW_00080,Vanellis,MTY_0010,1,Loved it,Uber Eats,2024-01-10
+RVW_00081,Tiki-Ming,MTY_0010,2,Loved it,Uber Eats,2024-01-29
+RVW_00082,Vanellis,MTY_0009,5,Terrible experience,Uber Eats,2024-01-17
+RVW_00083,Mucho Burrito,MTY_0014,4,Terrible experience,Google,2024-01-06
+RVW_00084,Tutti Frutti,MTY_0004,3,Loved it,Google,2024-01-18
+RVW_00085,Mucho Burrito,MTY_0010,2,Terrible experience,Yelp,2024-01-11
+RVW_00086,Thai Express,MTY_0018,3,Loved it,Uber Eats,2024-01-21
+RVW_00087,Thai Express,MTY_0002,3,Great service!,Google,2024-01-15
+RVW_00088,Tutti Frutti,MTY_0002,3,Great service!,Yelp,2024-01-27
+RVW_00089,Tutti Frutti,MTY_0006,5,Great service!,Yelp,2024-01-24
+RVW_00090,Mucho Burrito,MTY_0020,4,Great service!,Google,2024-01-12
+RVW_00091,Tutti Frutti,MTY_0013,3,Loved it,Yelp,2024-01-14
+RVW_00092,Vanellis,MTY_0005,4,Not clean,Uber Eats,2024-01-05
+RVW_00093,Thai Express,MTY_0002,4,Too slow,Yelp,2024-01-20
+RVW_00094,Thai Express,MTY_0012,4,Loved it,Google,2024-01-21
+RVW_00095,Thai Express,MTY_0014,3,Too slow,Yelp,2024-01-05
+RVW_00096,Mucho Burrito,MTY_0001,1,Not clean,Google,2024-01-22
+RVW_00097,Mucho Burrito,MTY_0010,1,Amazing taste,Yelp,2024-01-04
+RVW_00098,Thai Express,MTY_0020,3,Loved it,Google,2024-01-14
+RVW_00099,Vanellis,MTY_0012,4,Amazing taste,Uber Eats,2024-01-31
+RVW_00100,Tiki-Ming,MTY_0005,5,Too slow,Uber Eats,2024-01-25
+RVW_00101,Thai Express,MTY_0020,2,Amazing taste,Uber Eats,2024-01-30
+RVW_00102,Tiki-Ming,MTY_0003,4,Loved it,Google,2024-01-19
+RVW_00103,Mucho Burrito,MTY_0014,1,Loved it,Yelp,2024-01-01
+RVW_00104,Tiki-Ming,MTY_0015,3,Loved it,Yelp,2024-01-07
+RVW_00105,Vanellis,MTY_0015,2,Amazing taste,Google,2024-01-28
+RVW_00106,Thai Express,MTY_0009,1,Terrible experience,Google,2024-01-04
+RVW_00107,Thai Express,MTY_0017,3,Loved it,Yelp,2024-01-22
+RVW_00108,Thai Express,MTY_0010,5,Loved it,Uber Eats,2024-01-28
+RVW_00109,Vanellis,MTY_0001,5,Terrible experience,Uber Eats,2024-01-23
+RVW_00110,Thai Express,MTY_0007,5,Loved it,Yelp,2024-01-24
+RVW_00111,Mucho Burrito,MTY_0015,5,Terrible experience,Google,2024-01-26
+RVW_00112,Vanellis,MTY_0010,4,Great service!,Google,2024-01-18
+RVW_00113,Vanellis,MTY_0004,2,Great service!,Uber Eats,2024-01-07
+RVW_00114,Tiki-Ming,MTY_0006,3,Great service!,Google,2024-01-30
+RVW_00115,Vanellis,MTY_0002,5,Loved it,Google,2024-01-03
+RVW_00116,Thai Express,MTY_0009,5,Not clean,Uber Eats,2024-01-28
+RVW_00117,Tutti Frutti,MTY_0010,2,Terrible experience,Uber Eats,2024-01-14
+RVW_00118,Thai Express,MTY_0001,1,Terrible experience,Google,2024-01-01
+RVW_00119,Tiki-Ming,MTY_0017,1,Terrible experience,Uber Eats,2024-01-18
+RVW_00120,Thai Express,MTY_0014,1,Not clean,Yelp,2024-01-01
+RVW_00121,Mucho Burrito,MTY_0003,2,Too slow,Google,2024-01-14
+RVW_00122,Mucho Burrito,MTY_0002,4,Terrible experience,Uber Eats,2024-01-03
+RVW_00123,Thai Express,MTY_0020,5,Loved it,Yelp,2024-01-23
+RVW_00124,Vanellis,MTY_0007,4,Loved it,Yelp,2024-01-16
+RVW_00125,Thai Express,MTY_0010,2,Too slow,Yelp,2024-01-26
+RVW_00126,Mucho Burrito,MTY_0018,5,Amazing taste,Yelp,2024-01-11
+RVW_00127,Tutti Frutti,MTY_0001,3,Great service!,Uber Eats,2024-01-25
+RVW_00128,Tiki-Ming,MTY_0011,5,Too slow,Uber Eats,2024-01-31
+RVW_00129,Tiki-Ming,MTY_0005,3,Amazing taste,Uber Eats,2024-01-24
+RVW_00130,Tutti Frutti,MTY_0007,5,Great service!,Google,2024-01-27
+RVW_00131,Vanellis,MTY_0017,5,Not clean,Google,2024-01-08
+RVW_00132,Tiki-Ming,MTY_0001,4,Loved it,Uber Eats,2024-01-01
+RVW_00133,Mucho Burrito,MTY_0002,2,Great service!,Yelp,2024-01-17
+RVW_00134,Thai Express,MTY_0001,3,Terrible experience,Uber Eats,2024-01-25
+RVW_00135,Thai Express,MTY_0009,3,Great service!,Google,2024-01-04
+RVW_00136,Thai Express,MTY_0008,1,Loved it,Google,2024-01-05
+RVW_00137,Mucho Burrito,MTY_0010,5,Amazing taste,Google,2024-01-11
+RVW_00138,Tutti Frutti,MTY_0011,4,Loved it,Yelp,2024-01-06
+RVW_00139,Tutti Frutti,MTY_0019,2,Great service!,Google,2024-01-25
+RVW_00140,Mucho Burrito,MTY_0013,5,Great service!,Uber Eats,2024-01-24
+RVW_00141,Vanellis,MTY_0012,1,Not clean,Google,2024-01-24
+RVW_00142,Mucho Burrito,MTY_0012,5,Not clean,Google,2024-01-28
+RVW_00143,Tiki-Ming,MTY_0020,1,Great service!,Yelp,2024-01-21
+RVW_00144,Vanellis,MTY_0020,2,Too slow,Yelp,2024-01-01
+RVW_00145,Tutti Frutti,MTY_0011,1,Great service!,Yelp,2024-01-16
+RVW_00146,Tiki-Ming,MTY_0012,2,Loved it,Yelp,2024-01-19
+RVW_00147,Vanellis,MTY_0007,3,Terrible experience,Google,2024-01-01
+RVW_00148,Tutti Frutti,MTY_0019,4,Not clean,Google,2024-01-26
+RVW_00149,Mucho Burrito,MTY_0008,4,Terrible experience,Uber Eats,2024-01-23
+RVW_00150,Tiki-Ming,MTY_0014,4,Not clean,Google,2024-01-08
+RVW_00151,Tiki-Ming,MTY_0011,2,Not clean,Google,2024-01-29
+RVW_00152,Thai Express,MTY_0001,1,Terrible experience,Google,2024-01-22
+RVW_00153,Thai Express,MTY_0007,2,Terrible experience,Yelp,2024-01-30
+RVW_00154,Vanellis,MTY_0015,3,Not clean,Google,2024-01-06
+RVW_00155,Mucho Burrito,MTY_0003,5,Not clean,Google,2024-01-15
+RVW_00156,Tiki-Ming,MTY_0019,1,Amazing taste,Yelp,2024-01-26
+RVW_00157,Tiki-Ming,MTY_0008,4,Too slow,Uber Eats,2024-01-11
+RVW_00158,Mucho Burrito,MTY_0004,3,Loved it,Uber Eats,2024-01-21
+RVW_00159,Mucho Burrito,MTY_0015,3,Loved it,Uber Eats,2024-01-31
+RVW_00160,Tiki-Ming,MTY_0016,3,Amazing taste,Uber Eats,2024-01-17
+RVW_00161,Thai Express,MTY_0014,5,Too slow,Google,2024-01-03
+RVW_00162,Mucho Burrito,MTY_0007,1,Not clean,Uber Eats,2024-01-14
+RVW_00163,Tutti Frutti,MTY_0017,4,Loved it,Google,2024-01-06
+RVW_00164,Tiki-Ming,MTY_0014,1,Amazing taste,Google,2024-01-20
+RVW_00165,Tutti Frutti,MTY_0008,1,Too slow,Uber Eats,2024-01-11
+RVW_00166,Thai Express,MTY_0013,4,Terrible experience,Google,2024-01-18
+RVW_00167,Tutti Frutti,MTY_0009,1,Not clean,Yelp,2024-01-17
+RVW_00168,Tiki-Ming,MTY_0017,4,Too slow,Uber Eats,2024-01-11
+RVW_00169,Tiki-Ming,MTY_0003,2,Great service!,Uber Eats,2024-01-24
+RVW_00170,Mucho Burrito,MTY_0015,4,Loved it,Uber Eats,2024-01-19
+RVW_00171,Mucho Burrito,MTY_0017,3,Amazing taste,Google,2024-01-20
+RVW_00172,Tiki-Ming,MTY_0015,2,Great service!,Yelp,2024-01-30
+RVW_00173,Tutti Frutti,MTY_0003,4,Not clean,Google,2024-01-20
+RVW_00174,Tutti Frutti,MTY_0015,4,Loved it,Google,2024-01-18
+RVW_00175,Vanellis,MTY_0003,3,Loved it,Google,2024-01-24
+RVW_00176,Tutti Frutti,MTY_0012,1,Too slow,Uber Eats,2024-01-22
+RVW_00177,Vanellis,MTY_0013,1,Not clean,Google,2024-01-20
+RVW_00178,Vanellis,MTY_0008,2,Amazing taste,Google,2024-01-31
+RVW_00179,Tutti Frutti,MTY_0004,2,Amazing taste,Yelp,2024-01-30
+RVW_00180,Mucho Burrito,MTY_0018,5,Loved it,Uber Eats,2024-01-16
+RVW_00181,Thai Express,MTY_0020,4,Loved it,Uber Eats,2024-01-07
+RVW_00182,Vanellis,MTY_0009,3,Not clean,Uber Eats,2024-01-19
+RVW_00183,Tutti Frutti,MTY_0016,5,Great service!,Yelp,2024-01-02
+RVW_00184,Thai Express,MTY_0001,1,Loved it,Yelp,2024-01-30
+RVW_00185,Vanellis,MTY_0011,1,Terrible experience,Yelp,2024-01-30
+RVW_00186,Mucho Burrito,MTY_0014,4,Too slow,Google,2024-01-31
+RVW_00187,Mucho Burrito,MTY_0005,2,Too slow,Uber Eats,2024-01-25
+RVW_00188,Mucho Burrito,MTY_0009,4,Too slow,Yelp,2024-01-28
+RVW_00189,Tutti Frutti,MTY_0012,3,Terrible experience,Yelp,2024-01-19
+RVW_00190,Mucho Burrito,MTY_0006,1,Great service!,Uber Eats,2024-01-28
+RVW_00191,Tutti Frutti,MTY_0014,5,Terrible experience,Uber Eats,2024-01-03
+RVW_00192,Tiki-Ming,MTY_0001,2,Great service!,Google,2024-01-14
+RVW_00193,Mucho Burrito,MTY_0015,1,Not clean,Yelp,2024-01-28
+RVW_00194,Thai Express,MTY_0011,2,Amazing taste,Yelp,2024-01-10
+RVW_00195,Mucho Burrito,MTY_0010,1,Loved it,Google,2024-01-08
+RVW_00196,Tutti Frutti,MTY_0007,3,Too slow,Uber Eats,2024-01-12
+RVW_00197,Thai Express,MTY_0005,5,Loved it,Uber Eats,2024-01-23
+RVW_00198,Mucho Burrito,MTY_0003,3,Too slow,Google,2024-01-21
+RVW_00199,Tutti Frutti,MTY_0015,1,Not clean,Yelp,2024-01-04
+RVW_00200,Mucho Burrito,MTY_0014,3,Terrible experience,Google,2024-01-29
+RVW_00201,Thai Express,MTY_0016,5,Too slow,Uber Eats,2024-01-18
+RVW_00202,Vanellis,MTY_0007,3,Amazing taste,Uber Eats,2024-01-09
+RVW_00203,Tiki-Ming,MTY_0012,2,Too slow,Yelp,2024-01-25
+RVW_00204,Tutti Frutti,MTY_0002,1,Terrible experience,Yelp,2024-01-11
+RVW_00205,Tiki-Ming,MTY_0001,4,Too slow,Google,2024-01-12
+RVW_00206,Tiki-Ming,MTY_0014,4,Terrible experience,Google,2024-01-31
+RVW_00207,Mucho Burrito,MTY_0016,4,Too slow,Yelp,2024-01-05
+RVW_00208,Mucho Burrito,MTY_0007,3,Too slow,Uber Eats,2024-01-19
+RVW_00209,Mucho Burrito,MTY_0004,2,Amazing taste,Google,2024-01-15
+RVW_00210,Tutti Frutti,MTY_0004,5,Terrible experience,Yelp,2024-01-02
+RVW_00211,Mucho Burrito,MTY_0015,4,Too slow,Yelp,2024-01-11
+RVW_00212,Thai Express,MTY_0011,5,Not clean,Yelp,2024-01-14
+RVW_00213,Tutti Frutti,MTY_0007,4,Loved it,Google,2024-01-14
+RVW_00214,Thai Express,MTY_0001,1,Terrible experience,Yelp,2024-01-25
+RVW_00215,Thai Express,MTY_0017,1,Loved it,Google,2024-01-25
+RVW_00216,Thai Express,MTY_0011,4,Not clean,Yelp,2024-01-14
+RVW_00217,Tiki-Ming,MTY_0003,2,Terrible experience,Uber Eats,2024-01-25
+RVW_00218,Mucho Burrito,MTY_0006,4,Amazing taste,Google,2024-01-29
+RVW_00219,Vanellis,MTY_0002,3,Terrible experience,Google,2024-01-20
+RVW_00220,Tiki-Ming,MTY_0001,4,Amazing taste,Google,2024-01-11
+RVW_00221,Vanellis,MTY_0018,1,Terrible experience,Uber Eats,2024-01-17
+RVW_00222,Vanellis,MTY_0014,2,Terrible experience,Uber Eats,2024-01-12
+RVW_00223,Thai Express,MTY_0017,4,Great service!,Uber Eats,2024-01-07
+RVW_00224,Vanellis,MTY_0004,2,Terrible experience,Yelp,2024-01-17
+RVW_00225,Tutti Frutti,MTY_0002,5,Terrible experience,Uber Eats,2024-01-03
+RVW_00226,Mucho Burrito,MTY_0006,5,Not clean,Google,2024-01-17
+RVW_00227,Thai Express,MTY_0019,2,Great service!,Yelp,2024-01-28
+RVW_00228,Thai Express,MTY_0016,4,Not clean,Google,2024-01-06
+RVW_00229,Tiki-Ming,MTY_0009,5,Great service!,Google,2024-01-18
+RVW_00230,Mucho Burrito,MTY_0005,2,Terrible experience,Yelp,2024-01-17
+RVW_00231,Tiki-Ming,MTY_0009,2,Not clean,Uber Eats,2024-01-13
+RVW_00232,Vanellis,MTY_0011,3,Amazing taste,Uber Eats,2024-01-16
+RVW_00233,Vanellis,MTY_0006,4,Great service!,Google,2024-01-16
+RVW_00234,Thai Express,MTY_0012,1,Amazing taste,Google,2024-01-27
+RVW_00235,Tiki-Ming,MTY_0005,3,Loved it,Uber Eats,2024-01-20
+RVW_00236,Thai Express,MTY_0016,1,Terrible experience,Yelp,2024-01-08
+RVW_00237,Vanellis,MTY_0006,3,Not clean,Google,2024-01-14
+RVW_00238,Vanellis,MTY_0018,3,Amazing taste,Yelp,2024-01-14
+RVW_00239,Thai Express,MTY_0016,2,Terrible experience,Google,2024-01-29
+RVW_00240,Tutti Frutti,MTY_0016,5,Loved it,Uber Eats,2024-01-01
+RVW_00241,Tutti Frutti,MTY_0020,3,Amazing taste,Uber Eats,2024-01-17
+RVW_00242,Thai Express,MTY_0006,5,Great service!,Uber Eats,2024-01-20
+RVW_00243,Mucho Burrito,MTY_0007,1,Loved it,Uber Eats,2024-01-06
+RVW_00244,Thai Express,MTY_0017,3,Loved it,Google,2024-01-17
+RVW_00245,Tiki-Ming,MTY_0003,1,Amazing taste,Google,2024-01-10
+RVW_00246,Mucho Burrito,MTY_0009,4,Amazing taste,Uber Eats,2024-01-22
+RVW_00247,Mucho Burrito,MTY_0008,2,Too slow,Uber Eats,2024-01-05
+RVW_00248,Mucho Burrito,MTY_0005,1,Great service!,Google,2024-01-08
+RVW_00249,Tiki-Ming,MTY_0013,3,Not clean,Google,2024-01-17
+RVW_00250,Thai Express,MTY_0007,1,Too slow,Google,2024-01-18
+RVW_00251,Vanellis,MTY_0019,2,Great service!,Yelp,2024-01-13
+RVW_00252,Tiki-Ming,MTY_0011,1,Great service!,Google,2024-01-16
+RVW_00253,Vanellis,MTY_0006,1,Not clean,Uber Eats,2024-01-01
+RVW_00254,Vanellis,MTY_0014,2,Too slow,Google,2024-01-21
+RVW_00255,Tiki-Ming,MTY_0012,3,Too slow,Uber Eats,2024-01-05
+RVW_00256,Tutti Frutti,MTY_0004,2,Not clean,Google,2024-01-25
+RVW_00257,Thai Express,MTY_0020,2,Too slow,Uber Eats,2024-01-14
+RVW_00258,Mucho Burrito,MTY_0008,4,Too slow,Yelp,2024-01-04
+RVW_00259,Thai Express,MTY_0005,4,Great service!,Google,2024-01-12
+RVW_00260,Mucho Burrito,MTY_0018,3,Loved it,Google,2024-01-02
+RVW_00261,Tiki-Ming,MTY_0010,5,Loved it,Uber Eats,2024-01-04
+RVW_00262,Tutti Frutti,MTY_0009,5,Amazing taste,Uber Eats,2024-01-13
+RVW_00263,Mucho Burrito,MTY_0006,3,Terrible experience,Uber Eats,2024-01-17
+RVW_00264,Thai Express,MTY_0019,5,Loved it,Uber Eats,2024-01-19
+RVW_00265,Thai Express,MTY_0020,3,Terrible experience,Yelp,2024-01-13
+RVW_00266,Thai Express,MTY_0009,5,Terrible experience,Uber Eats,2024-01-30
+RVW_00267,Thai Express,MTY_0004,3,Amazing taste,Google,2024-01-27
+RVW_00268,Mucho Burrito,MTY_0018,5,Too slow,Google,2024-01-31
+RVW_00269,Thai Express,MTY_0013,4,Great service!,Google,2024-01-25
+RVW_00270,Tutti Frutti,MTY_0016,5,Too slow,Uber Eats,2024-01-04
+RVW_00271,Mucho Burrito,MTY_0014,2,Terrible experience,Uber Eats,2024-01-05
+RVW_00272,Tutti Frutti,MTY_0007,3,Too slow,Google,2024-01-31
+RVW_00273,Tutti Frutti,MTY_0002,4,Not clean,Google,2024-01-25
+RVW_00274,Mucho Burrito,MTY_0013,1,Terrible experience,Google,2024-01-01
+RVW_00275,Thai Express,MTY_0011,2,Loved it,Uber Eats,2024-01-14
+RVW_00276,Tiki-Ming,MTY_0003,5,Amazing taste,Google,2024-01-07
+RVW_00277,Mucho Burrito,MTY_0016,5,Loved it,Google,2024-01-20
+RVW_00278,Vanellis,MTY_0014,2,Too slow,Google,2024-01-09
+RVW_00279,Thai Express,MTY_0016,1,Not clean,Uber Eats,2024-01-12
+RVW_00280,Mucho Burrito,MTY_0010,5,Not clean,Google,2024-01-21
+RVW_00281,Tiki-Ming,MTY_0002,4,Amazing taste,Google,2024-01-01
+RVW_00282,Mucho Burrito,MTY_0005,5,Amazing taste,Uber Eats,2024-01-28
+RVW_00283,Tiki-Ming,MTY_0007,4,Amazing taste,Yelp,2024-01-21
+RVW_00284,Tiki-Ming,MTY_0011,2,Not clean,Uber Eats,2024-01-21
+RVW_00285,Tutti Frutti,MTY_0016,2,Amazing taste,Uber Eats,2024-01-28
+RVW_00286,Vanellis,MTY_0011,2,Loved it,Google,2024-01-01
+RVW_00287,Thai Express,MTY_0013,2,Loved it,Google,2024-01-23
+RVW_00288,Thai Express,MTY_0005,5,Too slow,Yelp,2024-01-28
+RVW_00289,Thai Express,MTY_0014,4,Too slow,Google,2024-01-27
+RVW_00290,Tutti Frutti,MTY_0017,4,Terrible experience,Google,2024-01-21
+RVW_00291,Mucho Burrito,MTY_0010,2,Great service!,Uber Eats,2024-01-28
+RVW_00292,Mucho Burrito,MTY_0003,3,Too slow,Uber Eats,2024-01-02
+RVW_00293,Vanellis,MTY_0010,3,Not clean,Uber Eats,2024-01-26
+RVW_00294,Vanellis,MTY_0016,1,Great service!,Uber Eats,2024-01-25
+RVW_00295,Mucho Burrito,MTY_0005,4,Not clean,Uber Eats,2024-01-20
+RVW_00296,Mucho Burrito,MTY_0003,1,Not clean,Google,2024-01-03
+RVW_00297,Thai Express,MTY_0013,1,Great service!,Google,2024-01-20
+RVW_00298,Tutti Frutti,MTY_0003,2,Terrible experience,Google,2024-01-01
+RVW_00299,Vanellis,MTY_0016,1,Too slow,Uber Eats,2024-01-04
+RVW_00300,Vanellis,MTY_0008,4,Too slow,Yelp,2024-01-10
