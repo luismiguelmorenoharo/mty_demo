@@ -21,6 +21,15 @@ fig = px.scatter(df, x="sales_per_employee", y="avg_customer_rating",
                  hover_data=["store_id", "brand"])
 st.plotly_chart(fig, use_container_width=True)
 
+# Affichage des 3 magasins avec le plus bas rendement
+st.subheader("Top 3 des magasins sous-performants")
+
+low_perf_stores = df[df["is_low_performing_store"] == 1]
+top3_low = low_perf_stores.sort_values("sales_per_employee").head(3)
+
+st.table(top3_low[["store_id", "brand", "sales_per_employee", "avg_customer_rating"]])
+
+
 # Tableau
 st.markdown("### Données détaillées")
 st.dataframe(df)
