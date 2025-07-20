@@ -12,4 +12,15 @@ df["is_low_performing_store"] = (df["total_month_sales"] < threshold).astype(int
 
 os.makedirs("data/features", exist_ok=True)
 df.to_csv(OUTPUT, index=False)
-print("✅ Feature engineering listo")
+print("Feature engineering listo")
+
+
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+
+def get_model_metrics(y_true, y_pred):
+    return {
+        "Accuracy": accuracy_score(y_true, y_pred),
+        "Precision": precision_score(y_true, y_pred),
+        "Recall": recall_score(y_true, y_pred),
+        "F1 Score": f1_score(y_true, y_pred),
+    }
